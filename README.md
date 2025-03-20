@@ -4,7 +4,9 @@
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # About me
-Hi! My name is P. V. Koundinya. I am from Bangalore, India. I did my undergrad in Computer Science, and am currently in the MISM-BIDA 16 program.
+Hi! My name is P. V. Koundinya. I am from Bangalore, India. I did my undergrad in Computer Science, and am currently in the 16 month track of Information Systems Management program with a concentration in Business Intelligence and Data Analytics. 
+
+
 
 
 # What I hope to learn
