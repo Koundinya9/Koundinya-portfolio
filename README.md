@@ -24,7 +24,7 @@ Looking to work in data science or data analysis after graduation.
 
 ## Discussion : Data viz redesign!
 
-Link to the datawrapper graph : [](https://datawrapper.dwcdn.net/JtrD0/1/)
+Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0/1/)
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
