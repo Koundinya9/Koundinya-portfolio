@@ -29,6 +29,9 @@ Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
+General Government Debt of countries in the year 2021 : ![Government Debt 2021](https://github.com/user-attachments/assets/1726ae66-4395-4649-9120-ec4814a0f586)
+Source - Organization for Economic Co-operation and Development (OECD) -> [Link to the website](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2021)
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
