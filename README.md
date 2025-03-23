@@ -33,6 +33,18 @@ General Government Debt of countries in the year 2021 : ![Government Debt 2021](
 Source - Organization for Economic Co-operation and Development (OECD) -> [Link to the website](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2021)
 
 
+Tableau Workbook 
+           
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1742690615951');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+</script>
+
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 
