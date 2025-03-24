@@ -1,4 +1,4 @@
-| [home page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Data Viz Examples](dataviz-examples.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 - Web page URL: https://koundinya9.github.io/Koundinya-portfolio/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
