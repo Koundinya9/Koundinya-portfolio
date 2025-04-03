@@ -51,26 +51,27 @@ I have also
 ## Step four: Test the solution
 
 
-Questions to ask (modify these for your own interviews): 
+Questions to ask : 
 
 
 - Can you describe to me what this is telling you?
-
 
 - At first glance what do you think the colours represent ?
 
 - What changes do you recommend ?
 
+
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|
 |Can you describe to me what this is telling you?    |It shows how annual precipitation has changed compared to past averages.              |Looks like a global map of rainfall deviations over time.             |It’s about changes in precipitation, but the numbers make it hard to read.             |
-|At first glance what do you think the colours represent ?          |Green might mean more rain and blue less, but it’s not clear.             |t looks like changes in precipitation, but the shades are confusing.             |The colors show variation, but I can’t tell exactly what they mean.             |
+|At first glance what do you think the colours represent ?          |Green might mean more rain and blue less, but it’s not clear.             |It looks like changes in precipitation, but the shades are confusing.             |The colors show variation, but I can’t tell exactly what they mean.             |
 |What changes do you recommend ?          |Remove the numbers to reduce clutter.             |The title should be clearer and more descriptive.             |Use a more intuitive color gradient.             |
+
+
 
 Synthesis: 
 
@@ -94,6 +95,9 @@ The final sketch of my redesign :-
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);         
 </script>
+
+
+
 
 I have incorporated all the changes suggested to me in the survey. I have changed the colour pallet to Orange-Blue. This seems to explain the data better, as blue indicates a wetter place with a higher precipitation value (positive) and orange indicates a dryer atmosphere with a lower precipitation value (negative). This will allow users to quickly see which countries have a greater deviation from the threshold. 
 
