@@ -1,4 +1,4 @@
-| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Data Viz Examples](dataviz-examples.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Data Viz Examples](dataviz-examples.md) | [Critique and redesign (MakeoverMonday)](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 - Web page URL: https://koundinya9.github.io/Koundinya-portfolio/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
@@ -30,7 +30,7 @@ Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique and redesign (MakeoverMonday)](critique-by-design)
 
 
 ## Final project
