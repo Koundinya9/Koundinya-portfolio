@@ -48,8 +48,7 @@ This is the [source](https://www.epa.gov/sustainable-management-food/excess-food
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   Food Waste Per Capita   |   [Link](https://ourworldindata.org/grapher/food-waste-per-capita)   |      Global dataset showing how much food is wasted per person, country by country.
-       |
+|   Food Waste Per Capita   |   [Link](https://ourworldindata.org/grapher/food-waste-per-capita)   |      Global dataset showing how much food is wasted per person, country by country.       |
 |   USDA Food Access Research Atlas   |   [Link](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)   |      Detailed map data on food deserts in the U.S. It shows where people lack access to grocery stores.       |
 |   EPA's Excess Food Opportunities Map   |   [Link](https://www.epa.gov/sustainable-management-food/excess-food-opportunities-map​)   |      Provides data on potential sources of excess food, including information on food waste generation and management facilities. This can be useful for understanding the landscape of food surplus and waste.​       |
 
