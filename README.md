@@ -35,9 +35,9 @@ Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0
 
 ## Final project
 
-- [Part I](final-project-part-one)
-- [Part II](final-project-part-two)
-- [Part III](final-project-part-three)
+- [Part I](final-project-part-one.md)
+- [Part II](final-project-part-two.md)
+- [Part III](final-project-part-three.md)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
