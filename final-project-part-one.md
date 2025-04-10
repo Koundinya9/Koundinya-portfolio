@@ -33,17 +33,6 @@ I have created these rough sketches using python and some made up data.
 
 # The data
 
-Food Waste Per Capita -> Global dataset showing how much food is wasted per person, country by country.
-
-This is the [source](https://ourworldindata.org/grapher/food-waste-per-capita) of the data.
-
-USDA Food Access Research Atlas -> Detailed map data on food deserts in the U.S. It shows where people lack access to grocery stores.
-This is the [source](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) of the data.
-
-EPA's Excess Food Opportunities Map -> Provides data on potential sources of excess food, including information on food waste generation and management facilities. This can be useful for understanding the landscape of food surplus and waste.​
-This is the [source](https://www.epa.gov/sustainable-management-food/excess-food-opportunities-map​) of the data.
-
-
 
 
 | Name | URL | Description |
