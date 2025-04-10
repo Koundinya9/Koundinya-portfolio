@@ -62,4 +62,4 @@ I am planning on using Shorthand to create a visually pleasing presentation and 
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Used GPT to search for one of the data sources as I was not able to find any reliable sources with extensive datasets.
