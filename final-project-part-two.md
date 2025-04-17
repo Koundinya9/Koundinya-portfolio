@@ -1,14 +1,15 @@
 | [home page](https://koundinya9.github.io/Koundinya-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+
+The primary target audience for this project is local policy makers and urban planning officials. These are the people in a position to influence how cities approach issues of food access, waste management, and infrastructure investment. By showing how food deserts and food waste coexist, often in the same regions, the story aims to provide these decision-makers with a clearer picture of the systemic inefficiencies and opportunities for intervention. 
+While the general public may also engage with the content, and it helps spread awareness that way, the structure and depth of the narrative are meant to directly support policy decisions that can lead to measurable change.
 
 Text here!
 
@@ -40,30 +41,22 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on feedback from both the professor and peer interviews, the main issues identified were that the story started too broadly, the solution section felt rushed, and some visuals needed stronger context or explanation.  In Part III, I’ll be focusing on refining the solution section with stronger data and adding more visual cues to guide the viewer through the story.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The beginning felt too broad and took too long to get going | I’ve reordered the slides to start with food access at the city level, so the audience connects faster |
+|                    The “solution” section felt rushed and less supported by data                      |         I’ll be sourcing real datasets for food rescue and improving that section with stronger visualizations                                                                        |
+|                    Some visuals were confusing or didn’t feel fully explained                      |       I have added clearer captions, highlighting key data points directly in the charts, and improving transitions                                                                          |
+|                   Feedback to “zoom in” more specifically                       |            I have selected specific cities and will continue refining these sections with real neighborhood data                                                                     |
 
-> ...include any final thoughts you have here. 
 
-Text here!
+## Final Thoughts 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+This round of feedback helped me realize that my story needs to be more grounded in specifics and visually intuitive. I am now thinking more carefully about who the story is for and how each part builds toward something actionable. 
 
-Text here!
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I have used GPT to search for nice datasets, and also help me with tableau visualisations as I am new to the software and had a bunch of questions along the way.
 
