@@ -31,7 +31,7 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | When you saw the beginning of the story, what did you think the main idea was? | The main idea of the story was clear, it’s about the contradiction between food waste and food deserts. But the introduction needs to be stronger to draw the viewer in immediately.            | The story was about how some communities struggle to access food even though there’s more than enough being wasted elsewhere. Starting with the food access problem made the story feel more grounded and real.            | The slope chart showing food access improvement was one of the strongest. The world food waste chart didn’t add much, it felt too generic and expected.            |
 |            Did the part about solutions or hope feel convincing? Or did it feel rushed or small compared to the problem?              | The message was communicated clearly, the contrast between food being wasted and people going hungry landed well.                               | 	The solution section felt rushed and too general. It needs more specifics, maybe case studies or numbers that show impact, like meals delivered or neighborhoods reached.            | The line graph was a good start, but the solution section overall felt underdeveloped. It needs more context or explanation to feel real.            |
