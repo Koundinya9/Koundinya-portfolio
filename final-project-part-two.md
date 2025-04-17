@@ -25,7 +25,7 @@ While the general public may also engage with the content, and it helps spread a
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+
 
 
 
