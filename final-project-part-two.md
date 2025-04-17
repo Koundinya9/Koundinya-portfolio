@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-
+[Storyboard Link](https://preview.shorthand.com/tZPMJBRAL6YFpUXM/responsive/desktop)
 
 # User research 
 
@@ -11,12 +11,9 @@
 The primary target audience for this project is local policy makers and urban planning officials. These are the people in a position to influence how cities approach issues of food access, waste management, and infrastructure investment. By showing how food deserts and food waste coexist, often in the same regions, the story aims to provide these decision-makers with a clearer picture of the systemic inefficiencies and opportunities for intervention. 
 While the general public may also engage with the content, and it helps spread awareness that way, the structure and depth of the narrative are meant to directly support policy decisions that can lead to measurable change.
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -25,12 +22,12 @@ Text here!
 |   Understand if the visuals are engaging and easy to follow   |        Which visual made the strongest impression and why? Was there any visual that confused you or felt like it needed more explanation?          |
 
 
-Text here!
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
