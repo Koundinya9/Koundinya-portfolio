@@ -2,7 +2,8 @@
 
 # Wireframes / storyboards
 
-[Storyboard Link](https://preview.shorthand.com/tZPMJBRAL6YFpUXM/responsive/desktop)
+[Storyboard Link](https://preview.shorthand.com/tZPMJBRAL6YFpUXM)
+
 
 # User research 
 
