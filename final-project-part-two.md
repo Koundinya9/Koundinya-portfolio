@@ -53,6 +53,8 @@ Based on feedback from both the professor and peer interviews, the main issues i
 
 This round of feedback helped me realize that my story needs to be more grounded in specifics and visually intuitive. I am now thinking more carefully about who the story is for and how each part builds toward something actionable. 
 
+And for Part 2, I have just focused on the story and the data representations, and I have not finalised the visuals of the story board in shorthand. 
+
 
 ## AI acknowledgements
 I have used GPT to search for nice datasets, and also help me with tableau visualisations as I am new to the software and had a bunch of questions along the way.
