@@ -38,8 +38,8 @@ Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0
 
 ## Final project :-
 
-- [Part I](final-project-part-one.md)
-- [Part II](final-project-part-two.md)
-- [Part III](final-project-part-three.md)
-- [Shorthand Storyboard](https://preview.shorthand.com/tZPMJBRAL6YFpUXM)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
+[Shorthand Storyboard](https://preview.shorthand.com/tZPMJBRAL6YFpUXM)
 
