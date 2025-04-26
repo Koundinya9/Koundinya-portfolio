@@ -1,4 +1,4 @@
-| [home page](https://koundinya9.github.io/Koundinya-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Data Viz Examples](dataviz-examples.md) | [Critique and redesign (MakeoverMonday)](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # Precipitation Anomalies 
 
