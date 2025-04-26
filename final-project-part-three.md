@@ -1,4 +1,4 @@
-| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Critique and redesign (MakeoverMonday)](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Critique and Redesign](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # The final data story
 
