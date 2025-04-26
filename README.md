@@ -30,13 +30,13 @@ Link to the datawrapper graph : [Click Here](https://datawrapper.dwcdn.net/JtrD0
 
 
 
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
+## Assignment 1 : [Visualizing Government Debt](visualizing-government-debt.md)
 
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
+## Assignment 2 : [Critique and redesign (MakeoverMonday)](critique-by-design)
 
 
-## Final project
+## Final project :-
 
 - [Part I](final-project-part-one.md)
 - [Part II](final-project-part-two.md)
