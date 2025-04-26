@@ -1,36 +1,46 @@
 | [Home Page](https://koundinya9.github.io/Koundinya-portfolio/) | [Visualising Government Debt](visualizing-government-debt.md) | [Data Viz Examples](dataviz-examples.md) | [Critique and redesign (MakeoverMonday)](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+[Link](https://preview.shorthand.com/tZPMJBRAL6YFpUXM) to the Final Storyboard
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Based on the feedback from Part 2, I’ve reordered the slides to start with food access at the city level, so the audience connects faster.
+I have also sourced real datasets for food rescue and improving that section with stronger visualizations. I have also added clearer captions, highlighting key data points directly in the charts, and improving transitions. I have selected specific cities and will continue refining these sections with real neighborhood data.
 
-Text here!
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The primary audience for this story is policy makers, especially those involved in food security, urban planning, and waste management. The goal is to show how systemic failures create both food waste and food deserts, and why policy interventions are needed to fix access, distribution, and enforcement.
+
+A secondary audience is the general public, particularly people interested in social issues or community-based solutions. For them, the story aims to raise awareness about how serious and connected the problems of food waste and hunger really are — even in places that seem to have plenty.
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+Throughout the project, I tried to design the story in a way that balanced clean visuals with a clear narrative. One major decision was to zoom in from a global view down to specific counties, focusing on Los Angeles and Jacksonville, to make the problem feel more real and tangible, rather than abstract.
+
+For the visualizations, I kept the charts simple and avoided overloading the viewer with too many complex graphs. Instead, I used bar charts, maps, and a line graph to highlight key moments without slowing down the story's flow. I also chose to focus more on comparisons between cities and counties rather than overwhelming national data, to better align with my target audience of policy makers.
+
+Another important design choice was to make the story feel like a journey, starting with food shortage, introducing the contradiction, food waste, explaining the cause, and ending with real solutions and a call to action.
+
+One thing that stood out to me was how important it is to think about pacing, making sure every slide adds something and keeping the viewer engaged without throwing too much at once. Working through this helped me realize that data visualization isn’t just about showing data, it's about shaping how someone experiences the story you’re telling.
+
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
+All the references I have used are already mentioned in my Shorthand Storyboard. 
+
+I have not used any copyrighted material, and the sources for every fact and image are linked in the Storyboard.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+I have used ChatGpt to search for some sources of data for the project, as I had a hard time finding the right dataset that would help me tell the story I wanted to tell.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I think the project came out well. I was able to find a clear story that connected food shortage and food waste. I am happy that the project feels easy to follow and not just like random charts put together. If I had more time, I would have liked to find better city level data, especially for Jacksonville. I also would have liked to spend more time making the visualizations feel even more natural with the story.
 
+The part I liked the most was zooming in step by step. Starting from the world, then the country, then the city, and finally the neighborhoods. It made the problem feel more real.
 
